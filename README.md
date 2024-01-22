@@ -10,6 +10,6 @@ A detailed account of how normative models can be implemented in future studies 
 
 ## Visualization of cerebellar growth trajectory in interactive web app:
 
-[![Visualize cerebellar growth](https://lh3.googleusercontent.com/drive-viewer/AITFw-zNmJ2KduqddK0qBpMbCYpgTSOzvbBBmZAsu73O47KJFSALYt2pR4n3Fo0amyfSF02BqjSaLZxwztlqAP8Z6oC8i1dx=s1600)](https://cgaiser1.shinyapps.io/cerebellar-growth/)
+[![Visualize cerebellar growth](https://photos.google.com/share/AF1QipNfl-T1NpUkVxbieIRbewvrIdo_3ougWYsXJtTNgL4mgmq67iNQGx8GZKYHr7ZeRw/photo/AF1QipOmkeezOeZxbSMql_nKGj49IZn68cytEWxANl5B?key=MFR4WElZd0lOUEVVdkdMRUw4X0Z2NjhvMzFpMU5R)](https://cgaiser1.shinyapps.io/cerebellar-growth/)
 
 
